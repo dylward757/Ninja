@@ -5,6 +5,7 @@ public class Ninjitsu {
 		
 		System.out.println("Initial Ninja");
 		System.out.println("Experiment with a new, risky GUI");
+		System.out.println();
 		System.out.println("Bug fix 19");
 	}
 
